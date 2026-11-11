@@ -1,0 +1,21 @@
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 运行输出（每次运行会重新生成）
+可行驶区域识别效果图.png
+
+# 示例图片（体积较大或涉及隐私时可不上传，按需保留）
+# images/
+
+# 系统和编辑器
+.DS_Store
+.idea/
+.vscode/
